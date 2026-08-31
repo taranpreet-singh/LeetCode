@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/taranpreet-singh/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/taranpreet-singh/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/taranpreet-singh/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/taranpreet-singh/DSA/tree/main/0155-min-stack/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/taranpreet-singh/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/taranpreet-singh/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/taranpreet-singh/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/taranpreet-singh/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/taranpreet-singh/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/taranpreet-singh/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/taranpreet-singh/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/taranpreet-singh/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/taranpreet-singh/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/taranpreet-singh/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/taranpreet-singh/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -248,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/taranpreet-singh/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/taranpreet-singh/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/taranpreet-singh/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/taranpreet-singh/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/taranpreet-singh/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
